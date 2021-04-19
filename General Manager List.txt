@@ -1,0 +1,22 @@
+City	GeneralManager	Gender
+Kolkata	Meenakshi	F
+Raipur	Meenakshi	F
+Patna	Meenakshi	F
+Delhi	Ravi Kumar	M
+Agra	Ravi Kumar	M
+Jaipur	Ravi Kumar	M
+Amritsar	Nitin Berry	M
+Varanasi	Nitin Berry	M
+Goa	Priyanka Dutta	F
+Mumbai	Priyanka Dutta	F
+Pune	Priyanka Dutta	F
+Nagpur	Marco Ruso	M
+Ahmedabad	Marco Ruso	M
+Surat	Marco Ruso	M
+Vizag	Mohit Negi	M
+Kochi	Mohit Negi	M
+Madurai	Mohit Negi	M
+Chennai	Mohit Negi	M
+Bengaluru	Mohit Negi	M
+Agartala	Akash Singh	M
+
